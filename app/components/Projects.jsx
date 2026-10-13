@@ -63,6 +63,7 @@ const projects = [
       "Ticket status history",
       "User, department, and category management",
       "PostgreSQL database with cloud deployment",
+      "demo admin users: email= admin@ithelpdesk.com password= firaol3090 "
     ],
     technologies: [
       "Next.js",
@@ -75,7 +76,7 @@ const projects = [
     ],
     github: "https://github.com/Firaolbirhanu/it-helpdesk-management-system.git",
     demo: "https://it-helpdesk-management-system-das70zyla.vercel.app/",
-    image: "/it-help-desk.png",
+    image: "/it-help-desk2.png",
   },
 
   {
