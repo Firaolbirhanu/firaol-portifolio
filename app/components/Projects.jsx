@@ -77,7 +77,7 @@ const projects = [
     ],
     github: "https://github.com/Firaolbirhanu/it-helpdesk-management-system.git",
     demo: "https://it-helpdesk-management-system-das70zyla.vercel.app/",
-    image: "/it-help-desk2.png",
+    image: "/it-help-desk.png",
   },
 
   {
