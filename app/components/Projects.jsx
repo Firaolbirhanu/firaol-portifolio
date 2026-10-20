@@ -14,6 +14,7 @@ const projects = [
       "Electronic device management",
       "QR-code verification",
       "Device withdrawal tracking",
+      "Device assignment to employees",
     ],
     technologies: [
       "Next.js",
@@ -22,8 +23,8 @@ const projects = [
       "Python",
       "MySQL",
     ],
-    github: "https://github.com/Firaolbirhanu/firaol-portifolio.git",
-    demo: "https://electronics-control-system.onrender.com",
+    github: "https://github.com/Firaolbirhanu/Electronic-asset-control-updated-.git",
+    demo: "https://electronic-asset-control-updated-demo.onrender.com",
     image: "/electronics-system.png",
   },
 
