@@ -15,6 +15,7 @@ const projects = [
       "QR-code verification",
       "Device withdrawal tracking",
       "Device assignment to employees",
+      "demo username: ADMIN paswword: firaol3090",
     ],
     technologies: [
       "Next.js",
